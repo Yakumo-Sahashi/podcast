@@ -1,5 +1,20 @@
 "use strict";
 
+window.onscroll = function () {
+  if (document.documentElement.scrollTop > 100) {
+    $('.go-top-container').addClass('show');
+  } else {
+    $('.go-top-container').removeClass('show');
+  }
+};
+
+document.querySelector('.go-top-container').addEventListener('click', function () {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+});
+
 var obtener_datos = function obtener_datos(tipo) {
   cargar();
   $('#seccion2').addClass('d-none');

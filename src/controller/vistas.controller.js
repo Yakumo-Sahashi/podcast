@@ -1,3 +1,18 @@
+window.onscroll = () => {
+    if(document.documentElement.scrollTop > 100 ) {
+        $('.go-top-container').addClass('show');
+    }else{
+        $('.go-top-container').removeClass('show');
+    }
+}
+
+document.querySelector('.go-top-container').addEventListener('click', () => {
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
+});
+
 const obtener_datos = (tipo) => {
     cargar();
     $('#seccion2').addClass('d-none');

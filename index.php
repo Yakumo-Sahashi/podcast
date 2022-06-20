@@ -21,6 +21,12 @@
         </div>
         <?php require_once 'view/main/footer.view.php';?>
     </div>
+    <div class="go-top-container">
+        <div class="go-top-button">
+            <i class="icono fas fa-chevron-up"></i>
+        </div>
+    </div>
+    <script src="<?=CONTROLLER;?>vistas.controller.js"></script>
     <script>
         AOS.init();
     </script>

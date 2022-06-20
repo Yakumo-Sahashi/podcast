@@ -11,4 +11,3 @@
     <script src="<?=DEP_SCRIPT;?>b5/bootstrap.js"></script>
     <script src="<?=DEP_SCRIPT;?>aos/aos.js"></script>
     <script src="<?=DEP_SCRIPT;?>main.js"></script>
-    <script src="<?=CONTROLLER;?>vistas.controller.js"></script>
