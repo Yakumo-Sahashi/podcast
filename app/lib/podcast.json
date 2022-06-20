@@ -1,0 +1,264 @@
+{
+    "gestion":[
+        {
+            "titulo": "Co-working",
+            "descripcion": "No te pierdas el episodio de hoy, se hablará sobre un espacio de trabajo que permite a trabajadores autónomos optar por compartir oficina con otros profesionales, además de ello se tomaran en cuenta las ventajas y desventajas del Co-working. 💼👨‍💼👩‍💼", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/MWY3ZWExYzktZjI4My00NzcwLWJjMjQtMjQyOGNhYzYyYThj?sa=X&ved=0CA0QkfYCahcKEwjAkMeMh7X4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/d55c8dd3-b8f3-4abb-8955-e11440082d79/la-cabina-de-los-linces-co-working",
+            "spotify": "https://open.spotify.com/episode/1ovNsb3trDAvLSA62XJsOG?si=yKusk5R5SzSFEypCFz1JiA",
+            "youtube": "https://www.youtube.com/watch?v=fuitXAgdr9g",
+            "img": "gestion/coworking.jpg"
+        },
+        {
+            "titulo": "Terra-Pint",
+            "descripcion": "En este capítulo de \"La Cabina de los Linces\" charlaremos sobre la participación de nuestro tecnológico en ENACTUS y de los logros que hemos alcanzado firmemente en el evento.👩🏻‍🎨💯👨🏻‍🎨", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/ZmZmNjQwYjctOTY0NC00YWE3LThmZDYtYTRkNzllZjZmNjNl?sa=X&ved=0CA0QkfYCahcKEwjAkMeMh7X4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/4ac859b6-f53d-4386-a30c-ead198db7eb2/la-cabina-de-los-linces-terra-pint",
+            "spotify": "https://open.spotify.com/episode/0NoUO9t7oXvun0PkhrwIS9?si=_g6Kw8JkSfWua5ldbKWkGw",
+            "youtube": "https://www.youtube.com/watch?v=2oo_BTvE1JY",
+            "img": "gestion/terra-pint.jpg"
+        },
+        {
+            "titulo": "Hub 1er generación",
+            "descripcion": "Descubre el quehacer del gestor en formación y las aportaciones que pueden hacer por si alma mater. Te coméntanos las aspiraciones y logros de los chicos de Gestión Empresarial. 👩🏻‍💼👨🏻‍💼", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/YTljMTE4MWYtY2U5My00MWQyLTg1MDctNWVjNjMyZTI0Njlk?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/fbca33ba-cdbc-4992-a325-9f463b0f0442/la-cabina-de-los-linces-hub-1er-generaci%C3%B3n",
+            "spotify": "https://open.spotify.com/episode/67KnyqQTX5DsWXzEvk5QYt?si=zcOK1kFxRVy8oW7khlgRxA",
+            "youtube": "https://www.youtube.com/watch?v=fLjaBTswS5Y",
+            "img": "gestion/hub 1er generacion.jpg"
+        }
+    ],
+    "sistemas":[
+        {
+            "titulo": "Aprender PHP en 2022",
+            "descripcion": "¡Hoy hablaremos sobre PHP! 💻\n¿Es conveniente aprenderlo en el 2022? 📊\n¿Hay oferta laboral? 💼\n¿Cómo estudiante me conviene? 👩‍💼👨‍💼\n¡Conoce los mitos y los framework! 😲\nDescubrelo escuchando el podcast de hoy.", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/NDE1NTQwYjUtNWIwYS00MjJhLWI1YmYtZWU5MGVkODkyNTdl?sa=X&ved=0CAUQkfYCahcKEwi46pX087T4AhUAAAAAHQAAAAAQCg",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/8f4982bf-6867-4293-9c3c-c56dc3f33250/la-cabina-de-los-linces-aprender-php-en-el-2022",
+            "spotify": "https://open.spotify.com/episode/0W4Nzr3YgPR41Hxa4HTSYh?si=Ug_VzlDkR8a0cBDh2AMRww",
+            "youtube": "https://www.youtube.com/watch?v=ShLVRTm55pQ",
+            "img": "sistemas/aprender php.jpg"
+        },
+        {
+            "titulo": "JavaScript en 2022",
+            "descripcion": "¿Aprender JavaScript, si o no? 🤔🙄\n¿Por qué aprender JavaScript? 🤔👩‍💻👨‍💻\nOfertas de trabajo y curiosidades 🤪💻😲", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/ZTg1Y2U3YWUtYjBlNS00ZmQ1LTg5ZmEtY2ExNWFjMWRlNWUx?sa=X&ved=0CAUQkfYCahcKEwi46pX087T4AhUAAAAAHQAAAAAQCg",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/badde371-5c82-48e5-bc0d-f54623d22a13/la-cabina-de-los-linces-javascript-2022",
+            "spotify": "https://open.spotify.com/episode/0RXfHGh6lIf1LrsCojFYZO?si=xj2gzqRuSxuQlp6LGddICg",
+            "youtube": "https://www.youtube.com/watch?v=O3GkvkqvNqE",
+            "img": "sistemas/javasript.jpg"
+        },
+        {
+            "titulo": "¿Cómo comprar una pc y no morir en el intento?",
+            "descripcion": "En este video charlaremos de los detalles que debes pensar a la hora de adquirir una PC. Acompañanos y siguenos en nuestras redes sociales. 💲💻🤩", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/ZWUzZDcwZTgtYzZjZC00YTA0LTg3MjQtNDI1MWNhYWI1MTQ5?sa=X&ved=0CAUQkfYCahcKEwi46pX087T4AhUAAAAAHQAAAAAQCg",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/df2dbc67-bff3-4eeb-bcfe-ee57d48e5f82/la-cabina-de-los-linces-como-comprar-una-pc-y-no-morir-en-el-intento",
+            "spotify": "https://open.spotify.com/episode/0N72T6wNB5DYYUseIuhcbp?si=UUNNtOd9Q1Kv0ciPxw4w_Q",
+            "youtube": "https://www.youtube.com/watch?v=M7VpYohf3OY",
+            "img": "sistemas/comprar una pc y no morir en el intento.jpg"
+        },
+        {
+            "titulo": "¿Es fácil programar?",
+            "descripcion": "Responde esta pregunta con las opiniones que comparten  los expertos de nuestra  institución y envíanos tus comentarios.🧑🏻‍💻👩🏻‍💻😃", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/ODFmNDQ1NTQtOWFkOC00YWNhLTk4OTUtZmZkZjJkYjZkMTYx?sa=X&ved=0CAUQkfYCahcKEwi46pX087T4AhUAAAAAHQAAAAAQCg",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/501f9d9f-871f-4f42-a4c3-cabb597c439b/la-cabina-de-los-linces-%C2%BFes-f%C3%A1cil-programar",
+            "spotify": "https://open.spotify.com/episode/5Cnlh69JwbPP59V816FTkQ?si=wkWuvCTyRHaYVnHy_5iHJA",
+            "youtube": "https://www.youtube.com/watch?v=RJmilm_HIms",
+            "img": "sistemas/es facil programar.jpg"
+        },
+        {
+            "titulo": "Relación entre actitud y oportunidades laborales",
+            "descripcion": "4 consejos infalibles para conseguir trabajo después de la universidad.   👩‍💼 👨‍💼 🧐", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/OGM1NjI2MTAtOTgzZC00ZThjLWJkMDgtMTc0ODQwZWJjNTIw?sa=X&ved=0CAUQkfYCahcKEwi46pX087T4AhUAAAAAHQAAAAAQCg",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/2fdabad8-d495-4e7d-b367-919f57e7dd7b/la-cabina-de-los-linces-relaci%C3%B3n-entre-actitud-y-oportunidades-laborales",
+            "spotify": "https://open.spotify.com/episode/4dUJNkAqrnRXeyyCJDSpuD?si=HydMP38QSzCFTXbCnl9icA",
+            "youtube": "https://www.youtube.com/watch?v=i6W3xS0cxtc",
+            "img": "sistemas/relacion entre actitud y oportunidades laborales.jpg"
+        },
+        {
+            "titulo": "Estudiante a docente",
+            "descripcion": "Roldan y Emma nos comparten su historia personal desde estudiantes hasta esta época en la que se desempeñan cómo docentes del ITMA II 💯🤾👨‍💻🎮", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/ZDgwZGRhODUtYjNlMC00MDY4LWE0ZWQtZTY1YTQxZDQyNTc3?sa=X&ved=0CAUQkfYCahcKEwi46pX087T4AhUAAAAAHQAAAAAQCg",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/880f131c-5bf0-4fbe-8f81-597627d6f8f4/la-cabina-de-los-linces-de-estudiante-a-docente",
+            "spotify": "https://open.spotify.com/episode/0f79CMDCe1Y91zrisR3PkH?si=humBCWcER06Dq-u6_GoumQ",
+            "youtube": "https://www.youtube.com/watch?v=Ky1aOEz7-j8",
+            "img": "sistemas/Estudiante a docente.jpg"
+        },
+        {
+            "titulo": "Cosas que hacen más difícil aprender a programar",
+            "descripcion": "¿Te ha pasado que algunas que algunas veces se te complica programar? Aquí te diremos las posibles causas y e daremos algunos consejos. Dale clic y disfruta de este programa preparado para ti. 👩‍💻👨‍💼🤓", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/NjBmOGQ0YjUtOTM2MC00YWM0LWExZWMtN2Y4ZDdlNzBjMzBl?sa=X&ved=0CAUQkfYCahcKEwi46pX087T4AhUAAAAAHQAAAAAQCg",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/d463ea1d-9364-4178-8fc9-75ac3147bdbc/la-cabina-de-los-linces-cosas-que-hacen-m%C3%A1s-dif%C3%ADcil-aprender-a-programar",
+            "spotify": "https://open.spotify.com/episode/7bX1dfmxWWSOfcjzbykGYj?si=qFgE5D6uSr273J0pC6KmYA",
+            "youtube": "https://www.youtube.com/watch?v=qgURC9l8st4",
+            "img": "sistemas/cosas que hacen mas dificil aprender a programar.jpg"
+        }
+    ],
+    "industrial":[
+        {
+            "titulo": "Movimiento Maker",
+            "descripcion": "¿Sabías que…? El movimiento maker utiliza métodos de fabricación digitales sin necesidad de grandes inversiones de dinero y sin recurrir a las empresas para conseguir la innovación. No te pierdas hoy este interesante tema en el capítulo de la cabina de los linces. 🛠🧰👩‍🔧", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/ODhmOWNiMzUtZWViMy00ZmRhLWIwNjgtMjdhOWM5NTQ2YmJk?sa=X&ved=0CAUQkfYCahcKEwio6aaRhrX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/ef18b9e8-ac87-4a53-ab03-449a3c49e4aa/la-cabina-de-los-linces-movimiento-maker",
+            "spotify": "https://open.spotify.com/episode/2BglvCrxWmHQBO0MQJYEsr?si=G7TnkTE4RC-i05AX-STODA",
+            "youtube": "https://www.youtube.com/watch?v=d6u5EXeO4-w",
+            "img": "industrial/movimiento maker.jpg"
+        },
+        {
+            "titulo": "Experiencia de residentes",
+            "descripcion": "Residentes de la carrera de Ing. Industrial del ITMA II nos comparten las experiencias que vivieron durante su estancia en la empresa Nopalitos Azteca y las actividades que desarrollaron en la organización que sin duda, fortalecieron sus competencias. 👨‍💼 👩‍💼👨‍💼", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/ZWFmOGE0MzctYWU3NS00NjA0LWEwNGEtYTgxNGQ1NWM1ZGVm?sa=X&ved=0CA0QkfYCahcKEwiIjOnHhrX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/ad7b54ce-7317-448b-8b51-c060a75780ff/la-cabina-de-los-linces-experiencia-de-residentes",
+            "spotify": "https://open.spotify.com/episode/1945ylU9prsW1n5uRddtge?si=0V41mx8HTqG1ejuB3WdtYg",
+            "youtube": "https://www.youtube.com/watch?v=VnLf6k9EJzU",
+            "img": "industrial/experiencia residentes.jpg"
+        },
+        {
+            "titulo": "¿Qué hace un ingeniero industrial?",
+            "descripcion": "Te haz preguntado ¿Qué hace un Ingeniero Industrial?\nVen y escucha este increible episodio para poder enterarte 👨‍💼🙂", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/MjJiOTZmYjYtYzM5Ny00MmRmLWI3MTgtNTc4NjFmYzcxMTU3?sa=X&ved=0CA0QkfYCahcKEwjAkMeMh7X4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/e815d169-0e9b-4982-a138-81566fac8d72/la-cabina-de-los-linces-%C2%BFqu%C3%A9-hace-un-ingeniero-industrial",
+            "spotify": "https://open.spotify.com/episode/4hFblUwADNEHgh1qT7ZCNy?si=zvOX_tRvRvuivZ1Mp9hQmg",
+            "youtube": "https://www.youtube.com/watch?v=5drpWOIgDcs",
+            "img": "industrial/Que hace un ing industrial.jpg"
+        }
+    ],
+    "entretenimiento": [
+        {
+            "titulo": "Especial post 14 de febrero",
+            "descripcion": "Decidimos iniciar este podcast con el tema del 14 de febrero, para celebrar y platicar sobre el amor como tambien de algunas curiosidades y experiencias personales. 💗💗", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/ZTYyZDMzNGItOGQzZC00YWY3LWE2YjMtZTBhZjg5NDQ1MTZh?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/ed31f1a5-528c-41a0-a7e6-af51c2799094/la-cabina-de-los-linces-especial-post-14-de-febrero",
+            "spotify": "https://open.spotify.com/episode/6Qx8In1VW6WSvw1689beCq",
+            "youtube": "https://www.youtube.com/watch?v=YcDhC0lrx-s",
+            "img": "Entretenimieno/14-febrero.jpg"
+        },
+        {
+            "titulo": "Residencias",
+            "descripcion": "Escucha nuestra cápsula académica presentado por la Mtra. Ilse Irlanda Nájera Chávez, quien nos platicara asuntos con respecto a las RESIDENCIAS. 👩‍💼👨‍💼📑", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/YThlMzg1MTctMjJhMS00ZDVjLTk0ZGQtOTAwNmZlN2ZmM2Mx?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/ff24d99a-9804-48c1-84c8-87a991b101d4/la-cabina-de-los-linces-residencias",
+            "spotify": "https://open.spotify.com/episode/0QOsbToxBceTTdXkAanGXY",
+            "youtube": "https://www.youtube.com/watch?v=MT-mnnGpOp8",
+            "img": "Entretenimieno/residencias.jpg"
+        },
+        {
+            "titulo": "¿Educación o hipocresía?",
+            "descripcion": "Hoy en la cabina de los linces hablaremos de un tema muy interesante la \"Educación o hipocresía\", intentaremos encontrar esa delgada línea entre ambos mundos, ¿Cuál será tu opinión? 😲😎", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/ZjVkOGE3NjItNmM2Mi00N2E1LWE1ZGMtMjFmODAzMmU4NTE3?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/9889a3db-b14c-45ea-8e02-84f1deaf9ba4/la-cabina-de-los-linces-%C2%BFeducaci%C3%B3n-o-hipocres%C3%ADa",
+            "spotify": "https://open.spotify.com/episode/4Bw9RvFnZpoKmbY8Y8fgpw",
+            "youtube": "https://www.youtube.com/watch?v=Tx-0-CSZoVA",
+            "img": "Entretenimieno/educacion o hipocresia.jpg"
+        },
+        {
+            "titulo": "Créditos complementarios",
+            "descripcion": "Escucha nuestra capsula académica presentada por la Ing. Xóchitl Marcela González Medel, quien nos platicara asuntos con respecto a los créditos complementarios. 📃👩‍💼👨‍💼", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/ZDM2YzY3NjQtZTM3Ny00ZDM5LWFjYTktNjUyNWQwNTMwMzFi?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/2cc35eda-d095-4357-ae60-56be584e71cb/la-cabina-de-los-linces-cr%C3%A9ditos-complementarios",
+            "spotify": "https://open.spotify.com/episode/7iFhMcyaZYmB41Q3uV5KnT",
+            "youtube": "https://www.youtube.com/watch?v=qkImtryJkeM",
+            "img": "Entretenimieno/creditos complementarios.jpg"
+        },
+        {
+            "titulo": "Década de los 90's",
+            "descripcion": "Preparáte para un viaje al pasado y disfruta de las anécdotas del trio maravilla en su etapa de la infancia y adolecencia. 👾🎸🎀💯", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/Y2QzNWI1ZmUtODEzNy00ZTllLTkzYzQtNjk4NmJmYTMwZDBl?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/a9f8c44c-fb4d-46be-8aa1-68bad5562dd8/la-cabina-de-los-linces-d%C3%A9cada-de-los-90's",
+            "spotify": "https://open.spotify.com/episode/0FXNNdNty8dqhdb7sjCTkB",
+            "youtube": "https://www.youtube.com/watch?v=H-qSOIrqg5w",
+            "img": "Entretenimieno/decada de los 90.jpg"
+        },
+        {
+            "titulo": "Historias para no dormir",
+            "descripcion": "Comparte nuestro episodio de terror y abraza  a quien tengas a un lado, mientras disfrutas de algunas historias espeluznantes que te preparamos. 💀👥😖", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/YzNjYTUxZDItNWRhOS00MjcxLTk3MjktNmM2NjEwMThkYTM5?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/41f3a596-e698-47a3-a6dd-216085a7718f/la-cabina-de-los-linces-historias-para-no-dormir",
+            "spotify": "https://open.spotify.com/episode/7q9bYfhvbHaVnO9kz6MKLr",
+            "youtube": "https://www.youtube.com/watch?v=OQ6Qd1LazAA",
+            "img": "Entretenimieno/historias para no dormir.jpg"
+        },
+        {
+            "titulo": "Cosas que hacemos los mexicanos",
+            "descripcion": "Enlistamos las costumbres más mexicanas que nos caracterizan y hacen único a nuestro país ¿Te acuerdas de algunas? ¡Acompañanos! 👩‍🌾🌮🌽👨‍🌾", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/MTA5Mjg3ZTUtNTA5YS00MWExLTlmY2UtZmY2OTFjNDAxYTFi?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/101350ef-e2cd-4dc5-8470-976fee08118e/la-cabina-de-los-linces-cosas-que-hacemos-los-mexicanos",
+            "spotify": "https://open.spotify.com/episode/49eqnQBQNA0QWcqd08r2be",
+            "youtube": "https://www.youtube.com/watch?v=FkFSXg37cDE",
+            "img": "Entretenimieno/cosas que hacemos los mxicanos.jpg"
+        },
+        {
+            "titulo": "Poniendo a prueba a los linces 1",
+            "descripcion": "Descubre los conocimientos, anécdotas y cultura general de nuestros queridos estudiantes, estamos seguros de que te vas a divertir. 🤯😂🗣️😎", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/NGE2NmQ4YWMtNzhjOS00MjcyLWEzNTItMmUzMjc3ZDEwM2Qy?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/cad272bb-a23a-48f3-9274-1b0e5e7161db/la-cabina-de-los-linces-poniendo-a-prueba-a-los-linces",
+            "spotify": "https://open.spotify.com/episode/75OW5NVRZukaPDSTEP4lwA",
+            "youtube": "https://www.youtube.com/watch?v=YOsX3hGPtY8",
+            "img": "Entretenimieno/poniendo a prueba a los linces 1.jpg"
+        },
+        {
+            "titulo": "Poniendo a prueba a los linces 2",
+            "descripcion": "Descubre los conocimientos, anécdotas y cultura general de nuestros queridos estudiantes, estamos seguros de que te vas a divertir. 🤯😂🗣️😎", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/YWRhYzQyNTUtZjYzMy00NjY0LTg4OGEtZTAxMmYyMTQxN2I4?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/b511b1ef-6174-4aff-8040-324e0a83184c/la-cabina-de-los-linces-poniendo-a-prueba-a-los-linces",
+            "spotify": "https://open.spotify.com/episode/15cXvVfDQgu404kxQqXTlW",
+            "youtube": "https://www.youtube.com/watch?v=YAE23Dhn6OA",
+            "img": "Entretenimieno/poniendo a prueba a los linces 2.jpg"
+        },
+        {
+            "titulo": "¿Por qué mi carrera es la mejor?",
+            "descripcion": "Bernardino Cabello modera el debate entre los estudiantes de las tres carreras: Gestión, Sistemas e Industrial. Acompáñanos a presenciar  los argumentos de cada uno y opina cual es la mejor. 🤔👩‍💻👨‍🔧📊", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/MzEwYzM4ZDEtNDIwMS00MzRjLWFkZmUtNDg0ZTI5ZmY3ZGI3?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/ec2023f8-dd97-4dc5-8f9c-6927f65bc5b0/la-cabina-de-los-linces-%C2%BFpor-qu%C3%A9-mi-carrera-es-la-mejor",
+            "spotify": "https://open.spotify.com/episode/2d8GK5ohqXXq92TquHEaCz",
+            "youtube": "https://www.youtube.com/watch?v=AG11dFwD7Vw",
+            "img": "Entretenimieno/porque mi carrera es la mejor.jpg"
+        },
+        {
+            "titulo": "Palabras Norteñas",
+            "descripcion": "El trío sensación conformado por Ilse, Iveth y Enrique te prepararon un divertido capítulo de palabras norteñas, específicamente del estado grande, Chihuahua. Comenta si conoces alguna otra palabra y diviértete junto con nosotros.", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/ODAyNWE1Y2QtYzQ3ZS00YmQzLTgxZmEtNDRkNWY1MDI0ODU0?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/2fd27182-9c35-4464-ab04-305417707c61/la-cabina-de-los-linces-palabras-norte%C3%B1as",
+            "spotify": "https://open.spotify.com/episode/2X9dw5SfjCtIDfPxNpkHNA",
+            "youtube": "#",
+            "img": "Entretenimieno/palabras norteñas.jpg"
+        },
+        {
+            "titulo": "Adivinando el platillo",
+            "descripcion": "¡Ya es viernes! Relájate este día y escucha el divertido episodio que preparamos para ti. Adivina el platillo junto con nosotros 😉🥗🍛😄 ", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/ODBlN2YxYTAtZDA2Mi00NzJiLWE0YzUtMzI2ZDEzOWFmZWUw?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/e6a76d69-e67d-423e-93f4-41f73c86bff7/la-cabina-de-los-linces-adivinando-el-platillo",
+            "spotify": "https://open.spotify.com/episode/7pVDASZ6EmlTvVJz2vyjPQ",
+            "youtube": "#",
+            "img": "Entretenimieno/adivinando el platillo.jpg"
+        }
+    ],
+    "reciente":[
+        {
+            "titulo": "Adivinando el platillo",
+            "descripcion": "¡Ya es viernes! Relájate este día y escucha el divertido episodio que preparamos para ti. Adivina el platillo junto con nosotros 😉🥗🍛😄 ", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/ODBlN2YxYTAtZDA2Mi00NzJiLWE0YzUtMzI2ZDEzOWFmZWUw?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/e6a76d69-e67d-423e-93f4-41f73c86bff7/la-cabina-de-los-linces-adivinando-el-platillo",
+            "spotify": "https://open.spotify.com/episode/7pVDASZ6EmlTvVJz2vyjPQ",
+            "youtube": "#",
+            "img": "Entretenimieno/adivinando el platillo.jpg"
+        },
+        {
+            "titulo": "Palabras Norteñas",
+            "descripcion": "El trío sensación conformado por Ilse, Iveth y Enrique te prepararon un divertido capítulo de palabras norteñas, específicamente del estado grande, Chihuahua. Comenta si conoces alguna otra palabra y diviértete junto con nosotros.", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/ODAyNWE1Y2QtYzQ3ZS00YmQzLTgxZmEtNDRkNWY1MDI0ODU0?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/2fd27182-9c35-4464-ab04-305417707c61/la-cabina-de-los-linces-palabras-norte%C3%B1as",
+            "spotify": "https://open.spotify.com/episode/2X9dw5SfjCtIDfPxNpkHNA",
+            "youtube": "#",
+            "img": "Entretenimieno/palabras norteñas.jpg"
+        },
+        {
+            "titulo": "¿Por qué mi carrera es la mejor?",
+            "descripcion": "Bernardino Cabello modera el debate entre los estudiantes de las tres carreras: Gestión, Sistemas e Industrial. Acompáñanos a presenciar  los argumentos de cada uno y opina cual es la mejor. 🤔👩‍💻👨‍🔧📊", 
+            "google": "https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy84NDgwNWFmMC9wb2RjYXN0L3Jzcw/episode/MzEwYzM4ZDEtNDIwMS00MzRjLWFkZmUtNDg0ZTI5ZmY3ZGI3?sa=X&ved=0CA0QkfYCahcKEwjog46-ibX4AhUAAAAAHQAAAAAQAQ",
+            "amazon": "https://music.amazon.com.mx/podcasts/c655c653-5a4b-48b2-9d4d-bb607dc58f1f/episodes/ec2023f8-dd97-4dc5-8f9c-6927f65bc5b0/la-cabina-de-los-linces-%C2%BFpor-qu%C3%A9-mi-carrera-es-la-mejor",
+            "spotify": "https://open.spotify.com/episode/2d8GK5ohqXXq92TquHEaCz",
+            "youtube": "https://www.youtube.com/watch?v=AG11dFwD7Vw",
+            "img": "Entretenimieno/porque mi carrera es la mejor.jpg"
+        }
+    ]
+}
